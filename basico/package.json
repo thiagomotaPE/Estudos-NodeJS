@@ -1,0 +1,14 @@
+{
+  "name": "basico",
+  "version": "1.0.0",
+  "description": "basico de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
